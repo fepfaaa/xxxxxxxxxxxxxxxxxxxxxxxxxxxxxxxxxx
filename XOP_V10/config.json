@@ -1,0 +1,7 @@
+{
+    "prefix":"-",
+    "token":"TOKEN",
+    "help_bypass":"true",
+    "help_sms":"true",
+    "channelid":"id"
+}
